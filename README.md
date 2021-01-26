@@ -37,7 +37,9 @@ ID3 Psuedocode (Credit to Wikipedia 2021)
     Return Root
     
 
+### Example of Decision Tree
 
+![](images/BST.png)
 
     
  
