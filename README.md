@@ -18,7 +18,7 @@ Different Characteristics of these animals lead this program to identify most li
 ID3 Psuedocode (Credit to Wikipedia 2021)
 
 ***ID3 (Examples, Target_Attribute, Attributes)***
-    <
+    
     Create a root node for the tree
     If all examples are positive, Return the single-node tree Root, with label = +.
     If all examples are negative, Return the single-node tree Root, with label = -.
@@ -35,7 +35,7 @@ ID3 Psuedocode (Credit to Wikipedia 2021)
             Else below this new branch add the subtree ID3 (Examples(vi), Target_Attribute, Attributes – {A})
     End
     Return Root
-    >
+    
 
 
 
