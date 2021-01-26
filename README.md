@@ -1,7 +1,7 @@
 # Decision-Tree-ID3-
 Decision Tree using BST |  Implementing ID3 ML algorithm.
 
-# # This is a decision tree which looks at a big Database of animals.
+## This is a decision tree which looks at a big Database of animals.
 
 Different Characteristics of these animals lead this program to identify most likely what this is.
 
