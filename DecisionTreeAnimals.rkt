@@ -171,7 +171,6 @@
 
 
 
-;; 2c
 ;; (histogram examples) produces a list
 ;; of attribute/count pairs with the pair showing how
 ;; many times that specific attribute appears in examples.
@@ -225,7 +224,6 @@
 
 
 
-;; 2d
 
 
 ;; (augment-histogram histogram attributes total)
@@ -287,7 +285,6 @@
 
 
 
-;; 2e
 
 ;; (entropy positive-counts negative-counts)
 ;; outputs the entropy of positive-counts
@@ -350,7 +347,6 @@
 
 
 
-;;2f
 
 
 ;; (entropy-attributes positive negative)
